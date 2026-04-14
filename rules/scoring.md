@@ -36,4 +36,4 @@ Se alguém errar a soma:
 - Não discutir aritmética básica por 20 minutos.
 
 Dominó é estratégia.
-Não é teste de matemática do ensino fundamental.
+Não é teste de matemática do ensino fundamental.  
